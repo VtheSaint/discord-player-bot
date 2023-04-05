@@ -1,4 +1,4 @@
-radio_token = "MTA5MjQ5OTI4NjI0OTQzOTM0NA.G62ojJ.0mX70_u-lTdpJNqRWSF-V79Kco8vaLNjAdXRW0"
+# token must be changed
 music_token = "MTA5MjQ5ODc0ODA3ODMwOTM3Ng.GgHkat.jRyO3Uc8bjjGkLHJTkJAqx5FtQWY18LcJju-bc"
 
 YTDL_OPTIONS = {'format': 'bestaudio/best', 'noplaylist': True,
